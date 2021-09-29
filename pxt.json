@@ -1,5 +1,5 @@
 {
-    "name": "pxt-ubit-extension",
+    "name": "pxt-ubit-bluetooth-builderror",
     "description": "",
     "dependencies": {
         "core": "*",
